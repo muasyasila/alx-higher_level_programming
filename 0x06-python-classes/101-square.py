@@ -92,4 +92,4 @@ class Square:
 
     def my_print(self):
         """print square."""
-        print(self.pos_print(), end="")`
+        print(self.pos_print(), end="")
